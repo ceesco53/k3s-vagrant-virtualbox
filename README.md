@@ -1,6 +1,6 @@
 **K3S on Vagrant**
 
-Installs:
+What this installs for the k8s node:
   - Ubuntu Jammy 22.04
   - K3S
   - Kubernetes API 1.28.9
